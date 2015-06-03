@@ -1,5 +1,5 @@
 {
-  "name": "fis-optimizer-html-minifier",
+  "name": "zoo-optimizer-html-minifier",
   "description": "A optimizer plugin for fis to compress html by using html-minifier.",
   "version": "0.1.0",
   "author": {

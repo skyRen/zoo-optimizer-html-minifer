@@ -7,7 +7,7 @@
 
 var minify = require('html-minifier').minify;
 
-module.exports = function(content, file, conf)
+module.exports = function(content, file, conf){
     return minify(content, conf);
 };
 

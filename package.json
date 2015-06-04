@@ -1,7 +1,7 @@
 {
   "name": "zoo-optimizer-html-minifier",
   "description": "A optimizer plugin for fis to compress html by using html-minifier.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "rsk",
     "email": "rsk_rsk@163.com"
@@ -14,6 +14,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/skyRen/zoo-optimizer-html-minifer.git"
+  },
+  "dependencies": {
+    "html-minifier": "0.6.5"
   },
   "engines": {
     "node": ">= 0.8.0"
